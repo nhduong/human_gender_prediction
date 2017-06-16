@@ -3,7 +3,7 @@ Prof. Lee Chilwoo
 Student: Nguyen Hai Duong  
 Target: predict human gender using Convolutional Neural Network
 
-![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/1.png "Gender Prediction")
+![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/1.PNG "Gender Prediction")
 
 ### Requirements
 1. TensorFlow 1.1.0 (or later)

@@ -16,14 +16,18 @@ Student: Nguyen Hai Duong
 2. Python 2.7/3.5
 3. Jupyter Notebook
 ## How to run source code
-1. For a complete training
-* Download the Jupyter notebook "gender_prediction.ipynb" and save it to a specific path (called GD_PATH)
-* In GD_PATH, create folder gender/wiki_crop
-* Download the processed [WIKI dataset](https://drive.google.com/open?id=0BxINLo5jshCRYW8xODhNSlkyLTQ) [1] and save them to GD_PATH/gender/wiki_crop
-* Download [additional testing images](https://drive.google.com/open?id=0BxINLo5jshCRUHNNVjd1QVA4bmM) and store them in GD_PATH
-* Open "gender_prediction.ipynb" with Jupyter and run all cells
-2. For testing using trained model
-* ...
+### For a complete training
+1. Download the Jupyter notebook "gender_prediction.ipynb" and save it to a specific path (called GD_PATH)
+2. In GD_PATH, create folder gender/wiki_crop
+3. Download the processed [WIKI dataset](https://drive.google.com/open?id=0BxINLo5jshCRYW8xODhNSlkyLTQ) [1] and save them to GD_PATH/gender/wiki_crop
+4. Download [additional testing images](https://drive.google.com/open?id=0BxINLo5jshCRUHNNVjd1QVA4bmM) and store them in GD_PATH
+5. Open "gender_prediction.ipynb" with Jupyter and run all cells
+### For testing using trained model
+1. Download the Jupyter notebook "gender_prediction_testing.ipynb" and save it to a specific path (called GD_PATH)
+2. In GD_PATH, create folder gender/wiki_crop
+3. Download [trained model](https://drive.google.com/open?id=0BxINLo5jshCRTTcwdjdKRVFTRUU) on WIKI dataset [1] and save it to GD_PATH
+4. Download [WIKI testingset](https://drive.google.com/open?id=0BxINLo5jshCRYW8xODhNSlkyLTQ) [1] including "64_64_11938_4098_testing_x_onehot.npy", and "64_64_11938_4098_testing_y_onehot" and store them in GD_PATH/gender/wiki_crop
+5. Open "gender_prediction_testing.ipynb" with Jupyter and run all cells
 
 ### References
 [1] Rasmus Rothe, Radu Timofte, and Luc Van Gool, "Deep expectation of real and apparent age from a single image without facial landmarks," International Journal of Computer Vision (2016)

@@ -1,7 +1,7 @@
 # Human Gender Prediction
 Chonnam National University  
 2017 AI Class  
-Prof. Lee Chilwoo  
+Professor Lee Chilwoo  
 Student: Nguyen Hai Duong  
 **Target: predict human gender using Convolutional Neural Network**
 
@@ -34,6 +34,7 @@ Student: Nguyen Hai Duong
 
 ### Personal information
 Nguyen Hai Duong  
+Supervisor: Professor Kim Soo-Hyung  
 Pattern Recognition Lab  
 Chonnam National University, Korea  
 E-mail: nhduong_3010@live.com

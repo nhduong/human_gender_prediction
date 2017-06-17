@@ -4,9 +4,10 @@ Prof. Lee Chilwoo
 Student: Nguyen Hai Duong  
 **Target: predict human gender using Convolutional Neural Network**
 
+## Gender prediction examples
 ![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/1.PNG)
 
-### Confusion Matrix
+## Confusion Matrix
 ![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/confusion_matrix.png)
 
 ## Requirements

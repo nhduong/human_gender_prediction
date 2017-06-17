@@ -20,4 +20,8 @@ Student: Nguyen Hai Duong
 2. For testing using trained model
 * ...
 
-## Thank you
+### Personal information
+Nguyen Hai Duong  
+Pattern Recognition Lab  
+Chonnam National University, Korea  
+E-mail: nhduong_3010@live.com

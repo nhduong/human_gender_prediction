@@ -8,15 +8,6 @@ Target: predict human gender using Convolutional Neural Network
 ### Confusion Matrix
 ![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/confusion_matrix.png)
 
-* (1): female
-* (2): male
-
-|     |    (0)   |   (1)    |       |
-|-----|----------|----------|-------|
-| (0) |   1892   |    495   | 79.3% / 20.7% |
-| (1) |    633   |   8919   | 93.4% / 6.6%  |
-|     |   74.9% / 25.1%  |   94.7% / 5.3%  | 90.6% / 9.4% |
-
 ### Requirements
 1. TensorFlow 1.1.0 (or later)
 2. Python 2.7/3.5

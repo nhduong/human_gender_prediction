@@ -16,7 +16,7 @@ Student: Nguyen Hai Duong
 2. Python 2.7/3.5
 3. Jupyter Notebook
 ## How to run source code
-### For a complete training
+### For a complete training (at least 8GB memory is required)
 1. Download the Jupyter notebook `gender_prediction.ipynb` and save it to a specific path (called **GD_PATH**)
 2. In **GD_PATH**, create folder **gender/wiki_crop**
 3. Download the processed [WIKI dataset](https://drive.google.com/open?id=0BxINLo5jshCRYW8xODhNSlkyLTQ) [1] and save them to **GD_PATH/gender/wiki_crop**
@@ -29,6 +29,11 @@ Student: Nguyen Hai Duong
 4. Download [WIKI testingset](https://drive.google.com/open?id=0BxINLo5jshCRYW8xODhNSlkyLTQ) [1] including **64_64_11938_4098_testing_x_onehot.npy**, and **64_64_11938_4098_testing_y_onehot.npy** and store them in **GD_PATH/gender/wiki_crop**
 5. Download [additional testing images](https://drive.google.com/open?id=0BxINLo5jshCRUHNNVjd1QVA4bmM) and store them in **GD_PATH**
 6. Open `gender_prediction_testing.ipynb` with Jupyter and run all cells
+## Testing Environment
+0. Microsoft Windows 10 Pro x64
+1. TensorFlow 1.1.0
+2. Anaconda 4.2 with Python 3.5
+3. GTX 1080
 
 ### References
 [1] Rasmus Rothe, Radu Timofte, and Luc Van Gool, "Deep expectation of real and apparent age from a single image without facial landmarks," International Journal of Computer Vision (2016)

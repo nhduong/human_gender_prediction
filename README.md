@@ -12,7 +12,7 @@ Student: Nguyen Hai Duong
 ![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/confusion_matrix.png)
 
 ## Requirements
-1. TensorFlow 1.1.0 (or later)
+1. TensorFlow 1.1.0 (or later) for Keras interface
 2. Python 2.7/3.5
 3. Jupyter Notebook
 ## How to run source code

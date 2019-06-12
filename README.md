@@ -1,6 +1,10 @@
 ![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-green.svg)
 ![Python 3.5](https://img.shields.io/badge/Python-3.5-red.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-blue.svg)
+  
+![Windows x64](https://img.shields.io/badge/Windows-x64-yellow.svg)
+![cuDNN v5](https://img.shields.io/badge/cuDNN-v5-yellowgreen.svg)
+![CUDA 8.0](https://img.shields.io/badge/CUDA-8.0-orange.svg)
 
 # Human Gender Prediction
 Chonnam National University  
@@ -29,11 +33,6 @@ Student: Nguyen Hai Duong
 4. Download [WIKI testingset](https://drive.google.com/open?id=0BxINLo5jshCRYW8xODhNSlkyLTQ) [1] including **64_64_11938_4098_testing_x_onehot.npy**, and **64_64_11938_4098_testing_y_onehot.npy** and store them in **GD_PATH/gender/wiki_crop**
 5. Download [additional testing images](https://drive.google.com/open?id=0BxINLo5jshCRUHNNVjd1QVA4bmM) and store them in **GD_PATH**
 6. Open `gender_prediction_testing.ipynb` with Jupyter and run all cells
-## Testing Environment
-0. Microsoft Windows 10 Pro x64
-1. TensorFlow 1.1.0
-2. Anaconda 4.2 with Python 3.5
-3. GTX 1080
 
 ### References
 [1] Rasmus Rothe, Radu Timofte, and Luc Van Gool, "Deep expectation of real and apparent age from a single image without facial landmarks," International Journal of Computer Vision (2016)

@@ -1,3 +1,10 @@
+![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-green.svg)
+![Python 3.5](https://img.shields.io/badge/Python-3.5-red.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-blue.svg)
+![Keras v2.0.9](https://img.shields.io/badge/Keras-2.0.9-yellow.svg)
+![CUDA 8.0](https://img.shields.io/badge/CUDA_8.0-optional,_GPU_only-orange.svg)
+![cuDNN v5](https://img.shields.io/badge/cuDNN_v5-optional,_GPU_only-yellowgreen.svg)
+
 # Human Gender Prediction
 Chonnam National University  
 2017 AI Class  
@@ -11,10 +18,6 @@ Student: Nguyen Hai Duong
 ## Confusion matrix on Wiki testing set
 ![alt text](https://raw.githubusercontent.com/nhduong/2017_ai_cource_project/master/imgs/confusion_matrix.png)
 
-## Requirements
-1. TensorFlow 1.1.0 (or later) for Keras interface
-2. Python 2.7/3.5
-3. Jupyter Notebook
 ## How to run source code
 ### For a complete training (at least 8GB memory is required)
 1. Download the Jupyter notebook `gender_prediction.ipynb` and save it to a specific path (called **GD_PATH**)
